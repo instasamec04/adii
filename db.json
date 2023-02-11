@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "adi",
+      "lastName": "alisherov",
+      "age": "19",
+      "id": 3
+    },
+    {
+      "name": "adi",
+      "lastName": "alisherov",
+      "age": "19",
+      "id": 4
+    },
+    {
+      "name": "samat",
+      "lastName": "samat",
+      "age": "19",
+      "id": 5
+    },
+    {
+      "name": "adi",
+      "lastName": "adi",
+      "age": "19",
+      "id": 6
+    }
+  ]
+}
