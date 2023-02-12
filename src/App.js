@@ -7,7 +7,7 @@ import Routing from "./Routing";
 const App = () => {
   return (
     <ProductsContextProvider>
-      <Navbar />
+      <Navbar  />
       <Routing />
     </ProductsContextProvider>
   );

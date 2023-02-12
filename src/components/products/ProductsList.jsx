@@ -6,6 +6,7 @@ const ProductsList = () => {
   const { users, DeleteUser } = useProducts();
 
   const navigate = useNavigate();
+  console.log(users);
 
   return (
     <div
